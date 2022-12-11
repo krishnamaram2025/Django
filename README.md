@@ -49,12 +49,14 @@ To demonstrate pytest for django rest framework
 * Run the migrations.
 
 
-```git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
+```
+git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
 cd pytest_django_crud
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-pytest```
+pytest
+```
 
 
 
