@@ -1,16 +1,7 @@
 # Objective
 This project is implemented to touch and feel Django Web Application.
 
-
-
-# Pre-Requisites
-```sudo yum install git -t
-sudo yum install python3-pip -y
-sudo pip3 install django
-sudo pip3 install djangorestframework
-sudo pip install guniucorn```
-
-# Pytest_Basics
+# Overview
 * Contains all the topis related to pytest and had fewer examples on
   * confest
   * Fixtures
@@ -23,7 +14,19 @@ sudo pip install guniucorn```
   * Sample Test Case
   * Mock
 
+
+# Pre-Requisites
+```sudo yum install git -t
+sudo yum install python3-pip -y
+sudo pip3 install django
+sudo pip3 install djangorestframework
+sudo pip install guniucorn```
+
+
+
+
 # Execution Flow
+
 # Django CRUD App
 ```git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
 cd pytest_django_crud
