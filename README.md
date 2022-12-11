@@ -28,8 +28,13 @@ sudo pip install guniucorn
 
 
 # Execution Flow
+=>How to run project?
+* Clone this repository.
+* Create virtualenv with Python 3.
+* Install dependences.
+* Run the migrations.
 
-# Django CRUD App
+=>Django_CRUD_App
 ```
 git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
 cd pytest_django_crud
@@ -39,16 +44,7 @@ python3 manage.py runserver 0.0.0.0:8000
 ```
 
 
-# pytest_django_crud
-To demonstrate pytest for django rest framework
-## How to run project?
-
-* Clone this repository.
-* Create virtualenv with Python 3.
-* Install dependences.
-* Run the migrations.
-
-
+=>Pytest_Django_CRUD(To demonstrate pytest for django rest framework)
 ```
 git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
 cd pytest_django_crud
