@@ -16,11 +16,11 @@ This project is implemented to touch and feel Django Web Application.
 
 # Pre-Requisites
 ```
-sudo yum install git -t
+sudo yum install git -y
 sudo yum install python3-pip -y
 sudo pip3 install django
 sudo pip3 install djangorestframework
-sudo pip install guniucorn
+sudo pip3 install guniucorn
 ```
 
 # Execution Flow
@@ -33,8 +33,8 @@ sudo pip install guniucorn
 =>Django_CRUD_App
 ```
 git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
-cd pytest_django_crud
-pip3 install -r requirements.txt
+cd pytest_django_crud/pytest_django_crud
+sudo pip3 install -r requirements.txt
 python manage.py migrate
 python3 manage.py runserver 0.0.0.0:8000
 ```
