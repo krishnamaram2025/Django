@@ -14,7 +14,6 @@ This project is implemented to touch and feel Django Web Application.
   * Sample Test Case
   * Mock
 
-
 # Pre-Requisites
 ```
 sudo yum install git -t
@@ -23,9 +22,6 @@ sudo pip3 install django
 sudo pip3 install djangorestframework
 sudo pip install guniucorn
 ```
-
-
-
 
 # Execution Flow
 =>How to run project?
@@ -43,7 +39,6 @@ python manage.py migrate
 python3 manage.py runserver 0.0.0.0:8000
 ```
 
-
 =>Pytest_Django_CRUD(To demonstrate pytest for django rest framework)
 ```
 git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
@@ -53,8 +48,6 @@ python manage.py migrate
 python manage.py runserver
 pytest
 ```
-
-
 
 # Issues
 ```sudo pip3 install requests
