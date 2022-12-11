@@ -1,3 +1,8 @@
+# Objective
+This project is implemented to touch and feel Django Web Application.
+
+
+
 # Pre-Requisites
 ```sudo yum install git -t
 sudo yum install python3-pip -y
@@ -36,18 +41,16 @@ To demonstrate pytest for django rest framework
 * Install dependences.
 * Run the migrations.
 
-```
-git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
+
+```git clone https://github.com/naveenreddymanukonda/pytest_django_crud.git
 cd pytest_django_crud
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-pytest
-```
+pytest```
 
 
 
 # Issues
-sudo pip3 install requests
-
-https://stackoverflow.com/questions/64634674/django-typeerror-argument-of-type-posixpath-is-not-iterable
+```sudo pip3 install requests
+https://stackoverflow.com/questions/64634674/django-typeerror-argument-of-type-posixpath-is-not-iterable```
