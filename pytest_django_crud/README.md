@@ -1,17 +1,3 @@
-# Pytest_Basics
-* Contains all the topis related to pytest. 
-* Had fewer examples on
-  * confest
-  * Fixtures
-  * Markers
-  * Options
-  * Parameterization
-  * pytest_ini
-  * Pytest_pass_fail_skip 
-  * Report_Generation
-  * Sample Test Case
-  * Mock
-
 # pytest_django_crud
 To demonstrate pytest for django rest framework
 ## How to run project?
