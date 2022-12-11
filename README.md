@@ -29,3 +29,9 @@ python manage.py migrate
 python manage.py runserver
 pytest
 ```
+
+
+
+# Issues
+sudo pip3 install requests
+https://stackoverflow.com/questions/64634674/django-typeerror-argument-of-type-posixpath-is-not-iterable
